@@ -5,8 +5,8 @@ header:
   overlay_image: /assets/images/snowboard.jpg
   overlay_filter: 0.1
   actions:
-    - label: About Us
-      url: /about/
+    - label: more info
+      url: /journal/
 author_profile: true
 published: true
 permalink: /
@@ -16,5 +16,6 @@ permalink: /
 
 The project uses convolutional neural networks and long short-term memory algorithms for analyzing sequences of words in order to determine the meaning using the context from nearby words.
 
-[My Final Report](files/finalreport.pdf)
-{: .btn .btn--primary .btn--large}
+[<span style="color: white">Final Report</span>](files/finalreport.pdf){: .btn .btn--warning}
+
+

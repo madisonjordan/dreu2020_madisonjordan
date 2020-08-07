@@ -1,6 +1,5 @@
 ---
 layout: single
-title: About Us
 permalink: /about/
 ---
 ## About Me
@@ -13,4 +12,4 @@ My mentor this summer is Dr Doina Bein, an associate professor in the Computer S
 She received her PhD at the University of Nevada, Las Vegas with expertise in: 
 Automatic Dynamic Decision-making Distributed computing, fault tolerant algorithms, graph embedding, randomized algorithms, sensor fusion, ad hoc and wireless networks
 
-[Dr Bein's website](http://dbein.github.io/)
+[Dr Bein's website](http://dbein.github.io/){: .btn .btn--info .btn--small}

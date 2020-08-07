@@ -272,4 +272,17 @@ defaults:
       related: true
       defaults:
       sidebar:
-        nav: "journal"
+        nav: "sidebar"
+
+          # _posts
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: category
+      sidebar:
+        nav: "sidebar"
+
+    
+
+  
