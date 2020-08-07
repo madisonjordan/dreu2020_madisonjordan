@@ -16,4 +16,5 @@ permalink: /
 
 The project uses convolutional neural networks and long short-term memory algorithms for analyzing sequences of words in order to determine the meaning using the context from nearby words.
 
-[My Final Report](files/finalreport.pdf){: .btn .btn--primary .btn--large}
+[My Final Report](files/finalreport.pdf)
+{: .btn .btn--primary .btn--large}
