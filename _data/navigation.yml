@@ -12,7 +12,8 @@ main:
   #   url: /sitemap/
 
 journal:
-  - title: "Week 1"
-    url: /journal/week1/
-  - title: "Week 2"
-    url: /journal/week2/
+  - titile: "Journal"
+    - title: "Week 1"
+      url: /journal/week1/
+    -  title: "Week 2"
+      url: /journal/week2/
