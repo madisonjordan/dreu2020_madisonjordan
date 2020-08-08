@@ -7,7 +7,7 @@ permalink: /about/
 
 My name is Madison Jordan. I am a junior studying computer science at Cal State University, Fullerton. I expect to graduate with a BS in Computer Science during Fall 2021.
 
-## About My Mentor
+## About My Mentors
 
 My mentor this summer is Dr Doina Bein, an associate professor in the Computer Science Department at Cal State University, Fullerton.
 She received her PhD at the University of Nevada, Las Vegas with expertise in: 
